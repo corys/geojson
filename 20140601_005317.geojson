@@ -4,7 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "link": “Run"
+                "link": “Run,
+                "time": "2014-06-01T00:53:19Z"
             },
             "geometry": {
                 "type": "LineString",
